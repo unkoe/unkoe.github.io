@@ -4,10 +4,10 @@
 entries:
   - title: 你可能需要
     entries:
-      - title: 这是我的极简个人博客，或者说记事簿
+      - title: 这是我的个人博客，或者说记事簿
       - title: github
         url: https://github.com/unkoe
-      - title: 你可以用 rss 进行订阅
+      - title: rss
         url: feed.xml
 
   - title: 所有帖子
