@@ -2,37 +2,26 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: 你可能需要
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: 这是我的极简个人博客，或者说记事簿
+      - title: github
+        url: https://github.com/unkoe
+      - title: 你可以用 rss 进行订阅
+        url: feed.xml
 
-  - title: all posts
+  - title: 所有帖子
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: 更多的...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: 编程
     post_list:
-      category: example2
+      category: coding
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: 更多的...
       show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+

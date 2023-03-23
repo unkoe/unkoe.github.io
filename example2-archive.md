@@ -1,5 +1,5 @@
 ---
 layout: archive
-which_category: example2
-title: All posts of category 'example2'
+which_category: coding
+title: 所有的编程分类
 ---
