@@ -1,4 +1,7 @@
-
+---
+layout: post
+category: coding
+---
 
 2017年3月3日 by [Martin Fowler](http://insights.thoughtworkers.org/author/martin-fowler/ "由Martin Fowler发布") [Leave a Comment](http://insights.thoughtworkers.org/injection/#respond)
 
