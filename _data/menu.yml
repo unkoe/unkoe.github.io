@@ -24,7 +24,7 @@ entries:
       show_more_text: 更多的...
       show_more_url: coding.html
 
-  - title: 生活
+  - title: 还在旧博客迁移中
     post_list:
       category: life
       show_more: true
